@@ -67,12 +67,12 @@
     },
     "dependencies": {
         "codeceptjs": "^2.6.11",
-        "concordialang-codeceptjs-core": "^1.2.2",
+        "concordialang-codeceptjs-core": "^1.3.0",
         "concordialang-plugin": "^1.1.0",
         "mocha": "^7.2.0",
         "mocha-multi": "^1.1.3",
         "mochawesome": "^6.2.2",
-        "testcafe": "^1.8.8"
+        "testcafe": "^1.14.0"
     },
     "devDependencies": {
         "@types/node": "^8.10.66",
