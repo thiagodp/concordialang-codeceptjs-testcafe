@@ -1,5 +1,5 @@
-[![npm version](https://badge.fury.io/js/concordialang-codeceptjs-testcafe.svg)](https://badge.fury.io/js/concordialang-codeceptjs-testcafe)
-[![GitHub last commit](https://img.shields.io/github/last-commit/thiagodp/concordialang-codeceptjs-testcafe.svg)](https://github.com/thiagodp/concordialang-codeceptjs-testcafe/releases)
+[![npm version](https://img.shields.io/npm/v/concordialang-codeceptjs-testcafe.svg?style=for-the-badge&color=green)](https://badge.fury.io/js/concordialang-codeceptjs-testcafe)
+[![GitHub last commit](https://img.shields.io/github/last-commit/thiagodp/concordialang-codeceptjs-testcafe.svg?style=for-the-badge)](https://github.com/thiagodp/concordialang-codeceptjs-testcafe/releases)
 
 # concordialang-codeceptjs-testcafe
 
@@ -30,16 +30,6 @@ npm i -D concordialang-codeceptjs-testcafe
 ```
 
 ## Documentation
-
-### Installed dependencies
-
-| Name          | Version |
-| ------------- | ------- |
-| testcafe      | 1.x     |
-| codeceptjs    | 2.x     |
-| mocha         | 7.x     |
-| mocha-multi   | 7.x     |
-| mocha-awesome | 6.x     |
 
 ### Integration with CodeceptJS
 
