@@ -1,6 +1,6 @@
 {
     "name": "concordialang-codeceptjs-testcafe",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "description": "Concordia Language plug-in to generate test scripts for CodeceptJS with TestCafé",
     "license": "AGPL-3.0",
     "readme": "readme.md",
@@ -65,9 +65,9 @@
         "serve": "echo \"TestCafe does not use an external testing server.\""
     },
     "dependencies": {
-        "concordialang-codeceptjs-core": "^1.4.1",
-        "concordialang-plugin": "^1.2.1",
-        "testcafe": "^1.16.0"
+        "concordialang-codeceptjs-core": "^1.4.2",
+        "concordialang-plugin": "^1.3.1",
+        "testcafe": "^1.16.1"
     },
     "devDependencies": {
         "@types/node": "^8.10.66",
